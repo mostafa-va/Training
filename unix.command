@@ -17,3 +17,4 @@ grep   to see certain contents or word;
 telnet to open a connection;
 ping   to see wheather the machin is active or dead;
 ifconfig  to see the IP address;
+these are common command for unix.....
